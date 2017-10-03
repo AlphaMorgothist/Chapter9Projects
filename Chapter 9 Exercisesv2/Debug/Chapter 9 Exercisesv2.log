@@ -1,0 +1,4 @@
+﻿  Lobby.cpp
+c:\users\denisa craus\source\repos\chapter 9 exercisesv2\chapter 9 exercisesv2\lobby.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\denisa craus\source\repos\chapter 9 exercisesv2\chapter 9 exercisesv2\lobby.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Denisa Craus\source\repos\Chapter 9 Exercisesv2\Debug\Chapter 9 Exercisesv2.exe for writing
